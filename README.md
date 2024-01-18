@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" height="100" alt="The flakes package logo." />
+  <img src="https://raw.githubusercontent.com/silvaquill/flakes/main/assets/logo.png" height="100" alt="The flakes package logo." />
 </p>
 
 # Flakes
