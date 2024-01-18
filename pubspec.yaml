@@ -1,0 +1,16 @@
+name: flakes
+description: "A collection of Lint rules for Dart and Flutter projects. #lints"
+version: 1.0.0
+topics: [lint, lints, analysis]
+
+homepage: https://github.com/silvaquill/flakes
+documentation: https://github.com/silvaquill/flakes/wiki
+repository: https://github.com/silvaquill/flakes
+issue_tracker: https://github.com/silvaquill/flakes/issues
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+screenshots:
+  - description: "The flakes package logo."
+    path: assets/logo.png
